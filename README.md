@@ -1,5 +1,5 @@
 ## Hi there 👋
-## jimenarr is specificly used on work related to RollingRobots Inc.
+## "jimenarr" is specifically used for projects related to RollingRobots Inc.
 
 <!--
 **jimenarr/jimenarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
